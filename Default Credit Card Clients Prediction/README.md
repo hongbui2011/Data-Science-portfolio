@@ -1,6 +1,6 @@
 **Description:** 
 
-In this portfolio, we worked on the dataset of our choice. The dataset used in this portfolio is [Default Credit Card Clients]( https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) obtained from UCI Machine Learning Repository 
+The dataset used in this portfolio is [Default Credit Card Clients]( https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) obtained from UCI Machine Learning Repository 
 
 Since credit card default can be perceived as financial fraud, it is critical that we precisely identify or early detect possible default cases in order to prevent the losses. The aim of this project is to predict the chances of customers being unable to repay their credit card debt next month using different Machine Learning models. In particular, Logistic Regression, Random Forest and Support Vector Machines algorithms have been employed. 
 
